@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
     # Here I'm making instances from MyMatrix's objects.
 
-    o = hm.MyMatrix(c)
+    o = hm.MyMatrix(f)
     o.dimension()
     o.straight()
     o.compute()
